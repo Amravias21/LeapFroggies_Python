@@ -3,7 +3,7 @@
 ## Description
 This Python program implements the classic "Leap Froggies" puzzle game. The objective of the game is to rearrange the frogs on the left and right sides of the pond so that they switch places. Each frog can either move forward one space or leapfrog over another frog from the opposite side to move two spaces. The puzzle is solved when the frogs on the left and right sides have switched positions.
 
-##Rules
+## Rules
 1. The left set of frogs can only move right, and the right set of frogs can only move left.
 2. Frogs can move forward one space, or move two spaces by jumping over another frog from the opposite side.
 3. The puzzle is solved when the two sets of frogs have switched positions.
