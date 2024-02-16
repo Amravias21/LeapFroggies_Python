@@ -12,7 +12,7 @@ This Python program implements the classic "Leap Froggies" puzzle game. The obje
 1. Ensure you have Python installed on your system.
 2. Clone this repository to your local machine.
 3. Open a terminal or command prompt and navigate to the directory where you cloned the repository.
-4. Run the `leap_froggies.py` file using Python: `week2_(sai_varma_paloji).py`.
+4. Run the file using Python: `week2_(sai_varma_paloji).py`.
 
 ## How to Play
 1. Run the program as instructed above.
